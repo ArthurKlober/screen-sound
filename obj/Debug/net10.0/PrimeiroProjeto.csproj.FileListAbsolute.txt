@@ -1,0 +1,14 @@
+C:\PreparaTech\.NET\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net10.0\PrimeiroProjeto.exe
+C:\PreparaTech\.NET\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net10.0\PrimeiroProjeto.deps.json
+C:\PreparaTech\.NET\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net10.0\PrimeiroProjeto.runtimeconfig.json
+C:\PreparaTech\.NET\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net10.0\PrimeiroProjeto.dll
+C:\PreparaTech\.NET\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net10.0\PrimeiroProjeto.pdb
+C:\PreparaTech\.NET\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net10.0\PrimeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\PreparaTech\.NET\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net10.0\PrimeiroProjeto.AssemblyInfoInputs.cache
+C:\PreparaTech\.NET\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net10.0\PrimeiroProjeto.AssemblyInfo.cs
+C:\PreparaTech\.NET\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net10.0\PrimeiroProjeto.csproj.CoreCompileInputs.cache
+C:\PreparaTech\.NET\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net10.0\PrimeiroProjeto.dll
+C:\PreparaTech\.NET\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net10.0\refint\PrimeiroProjeto.dll
+C:\PreparaTech\.NET\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net10.0\PrimeiroProjeto.pdb
+C:\PreparaTech\.NET\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net10.0\PrimeiroProjeto.genruntimeconfig.cache
+C:\PreparaTech\.NET\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net10.0\ref\PrimeiroProjeto.dll
