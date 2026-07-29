@@ -8,15 +8,14 @@
     public string DuracaoTotalMusica => $"{DuracaoMinutos}:{DuracaoRestanteSegundos}";
     public bool Disponivel {  get; set; }
     public string DescricaoResumida => $"A música {Nome} pertende a banda {Artista}";
-
-
-  
+    public Genero Genero { get; set; }
 
     public void ExibirFichaTecnica()
     {
         Console.WriteLine($"Nome: {Nome}");
         Console.WriteLine($"Artista: {Artista}");
         Console.WriteLine($"Duração: {DuracaoTotalMusica}");
+        Console.WriteLine($"Gênero: {Genero}");
 
         if (Disponivel)
         {

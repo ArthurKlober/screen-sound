@@ -16,7 +16,7 @@
         Console.WriteLine($"Lista de músicas do álbum {Nome}:\n");
         foreach(var musica in musicas)
         {
-            Console.WriteLine($"Música: {musica.Nome} - Duração: {musica.DuracaoTotalMusica}");
+            Console.WriteLine($"Música: {musica.Nome} - Duração: {musica.DuracaoTotalMusica} - Gênero: {musica.Genero.Nome}");
         }
         Console.WriteLine($"Duração total do álbum: {DuracaoTotalAlbum}");
     }
