@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\PreparaTech\\.NET\\PrimeiroProjeto\\PrimeiroProjeto\\PrimeiroProjeto.csproj",
-      "projectName": "PrimeiroProjeto",
-      "projectPath": "C:\\PreparaTech\\.NET\\PrimeiroProjeto\\PrimeiroProjeto\\PrimeiroProjeto.csproj",
+      "projectUniqueName": "C:\\PreparaTech\\.NET\\ScreenSound\\ScreenSound\\ScreenSound.csproj",
+      "projectName": "ScreenSound",
+      "projectPath": "C:\\PreparaTech\\.NET\\ScreenSound\\ScreenSound\\ScreenSound.csproj",
       "packagesPath": "C:\\Users\\arthur.klober\\.nuget\\packages\\",
-      "outputPath": "C:\\PreparaTech\\.NET\\PrimeiroProjeto\\PrimeiroProjeto\\obj\\",
+      "outputPath": "C:\\PreparaTech\\.NET\\ScreenSound\\ScreenSound\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\arthur.klober\\AppData\\Roaming\\NuGet\\NuGet.Config",
