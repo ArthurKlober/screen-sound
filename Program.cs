@@ -1,21 +1,28 @@
-﻿Album albumExalta = new Album();
-albumExalta.Nome = "Cartão Postal";
+﻿Banda exaltasamba = new Banda("Exaltasamba");
 
-Genero pagode = new Genero();
-pagode.Nome = "Pagode";
+Album albumExalta = new Album("Cartão Postal");
 
-Musica musica1 = new Musica();
-musica1.Nome = "Cartão Postal";
-musica1.Duracao = 256;
-musica1.Genero = pagode;
+Genero pagode = new Genero("Pagode");
 
+Musica musica1 = new Musica(exaltasamba, "Cartão Postal", pagode)
+{
+    Duracao = 256,
+    Disponivel = true
+};
 
-Musica musica2 = new Musica();
-musica2.Nome = "Carona do Amor";
-musica2.Duracao = 255;
-musica2.Genero = pagode;
+Musica musica2 = new Musica(exaltasamba, "Carona do Amor", pagode)
+{
+    Duracao = 255,
+    Disponivel = true
+};
 
+exaltasamba.AdicionarAlbum(albumExalta);
 albumExalta.AdicionarMusica(musica1);
 albumExalta.AdicionarMusica(musica2);
 
+musica1.ExibirFichaTecnica();
+musica2.ExibirFichaTecnica();
+
 albumExalta.ExibirMusicaDoAlbum();
+
+exaltasamba.ExibirDiscografia();
